@@ -60,12 +60,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.UseCase10PalindromeCheckerApp.executor": "Run",
     "Application.UseCase1PalindromeCheckerApp.executor": "Run",
     "Application.UseCase2PalindromeCheckerApp.executor": "Run",
     "Application.UseCase3PalindromeCheckerApp.executor": "Run",
     "Application.UseCase5PalindromeCheckerApp.executor": "Run",
     "Application.UseCase6PalindromeCheckerApp.executor": "Run",
     "Application.UseCase7PalindromeCheckerApp.executor": "Run",
+    "Application.UseCase8PalindromeCheckerApp.executor": "Run",
+    "Application.UseCase9PalindromeCheckerApp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -92,7 +95,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UseCase10PalindromeCheckerApp">
+  <component name="RunManager" selected="Application.UseCase11PalindromeCheckerApp">
     <configuration name="UseCase10PalindromeCheckerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UseCase10PalindromeCheckerApp" />
       <module name="RA2411026010019" />
@@ -100,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseCase6PalindromeCheckerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UseCase6PalindromeCheckerApp" />
+    <configuration name="UseCase11PalindromeCheckerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UseCase11PalindromeCheckerApp" />
       <module name="RA2411026010019" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UseCase11PalindromeCheckerApp" />
         <item itemvalue="Application.UseCase10PalindromeCheckerApp" />
         <item itemvalue="Application.UseCase9PalindromeCheckerApp" />
         <item itemvalue="Application.UseCase8PalindromeCheckerApp" />
         <item itemvalue="Application.UseCase7PalindromeCheckerApp" />
-        <item itemvalue="Application.UseCase6PalindromeCheckerApp" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +157,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772123808280</updated>
       <workItem from="1772123809838" duration="346000" />
-      <workItem from="1772124179162" duration="5618000" />
+      <workItem from="1772124179162" duration="5967000" />
     </task>
     <servers />
   </component>
