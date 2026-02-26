@@ -61,6 +61,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.UseCase10PalindromeCheckerApp.executor": "Run",
+    "Application.UseCase11PalindromeCheckerApp.executor": "Run",
     "Application.UseCase1PalindromeCheckerApp.executor": "Run",
     "Application.UseCase2PalindromeCheckerApp.executor": "Run",
     "Application.UseCase3PalindromeCheckerApp.executor": "Run",
@@ -95,7 +96,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UseCase11PalindromeCheckerApp">
+  <component name="RunManager" selected="Application.UseCase12PalindromeCheckerApp">
     <configuration name="UseCase10PalindromeCheckerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UseCase10PalindromeCheckerApp" />
       <module name="RA2411026010019" />
@@ -110,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseCase7PalindromeCheckerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UseCase7PalindromeCheckerApp" />
+    <configuration name="UseCase12PalindromeCheckerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UseCase12PalindromeCheckerApp" />
       <module name="RA2411026010019" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UseCase12PalindromeCheckerApp" />
         <item itemvalue="Application.UseCase11PalindromeCheckerApp" />
         <item itemvalue="Application.UseCase10PalindromeCheckerApp" />
         <item itemvalue="Application.UseCase9PalindromeCheckerApp" />
         <item itemvalue="Application.UseCase8PalindromeCheckerApp" />
-        <item itemvalue="Application.UseCase7PalindromeCheckerApp" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +158,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772123808280</updated>
       <workItem from="1772123809838" duration="346000" />
-      <workItem from="1772124179162" duration="5967000" />
+      <workItem from="1772124179162" duration="6063000" />
     </task>
     <servers />
   </component>
@@ -171,6 +172,15 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>10</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/UseCase11PalindromeCheckerApp.java</url>
+          <line>4</line>
+          <properties class="UseCase11PalindromeCheckerApp" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
