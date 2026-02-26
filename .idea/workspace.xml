@@ -92,9 +92,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UseCase9PalindromeCheckerApp">
-    <configuration name="UseCase5PalindromeCheckerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UseCase5PalindromeCheckerApp" />
+  <component name="RunManager" selected="Application.UseCase10PalindromeCheckerApp">
+    <configuration name="UseCase10PalindromeCheckerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UseCase10PalindromeCheckerApp" />
       <module name="RA2411026010019" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UseCase10PalindromeCheckerApp" />
         <item itemvalue="Application.UseCase9PalindromeCheckerApp" />
         <item itemvalue="Application.UseCase8PalindromeCheckerApp" />
         <item itemvalue="Application.UseCase7PalindromeCheckerApp" />
         <item itemvalue="Application.UseCase6PalindromeCheckerApp" />
-        <item itemvalue="Application.UseCase5PalindromeCheckerApp" />
       </list>
     </recent_temporary>
   </component>
