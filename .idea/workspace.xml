@@ -58,6 +58,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.UseCase1PalindromeCheckerApp.executor": "Run",
+    "Application.UseCase2PalindromeCheckerApp.executor": "Run",
     "Application.UseCase3PalindromeCheckerApp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -85,7 +86,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UseCase2PalindromeCheckerApp">
+  <component name="RunManager" selected="Application.UseCase5PalindromeCheckerApp">
     <configuration name="UseCase1PalindromeCheckerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UseCase1PalindromeCheckerApp" />
       <module name="RA2411026010019" />
@@ -100,8 +101,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UseCase5PalindromeCheckerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UseCase5PalindromeCheckerApp" />
+      <module name="RA2411026010019" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UseCase5PalindromeCheckerApp" />
         <item itemvalue="Application.UseCase2PalindromeCheckerApp" />
         <item itemvalue="Application.UseCase1PalindromeCheckerApp" />
       </list>
@@ -123,7 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772123808280</updated>
       <workItem from="1772123809838" duration="346000" />
-      <workItem from="1772124179162" duration="4969000" />
+      <workItem from="1772124179162" duration="5312000" />
     </task>
     <servers />
   </component>
